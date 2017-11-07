@@ -25,7 +25,7 @@ SECRET_KEY = 'mehf98(my4y(n%z%p*5(4fpczexbql+tn$@&oh_*q%u3$nj68i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'app.alkira.school']
 
 
 # Application definition
